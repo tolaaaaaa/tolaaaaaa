@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @tolaaaaaa
+- 👀 I’m interested in software development, building innovative solutions, and exploring new technologies.
+- 🌱 I’m currently learning advanced backend development, cloud services, and how to integrate payment gateways like Stripe.
+- 💞️ I’m looking to collaborate on projects related to Node.js, React Native, and any applications involving barcode scanning, price comparison, and APIs.
+- 📫 How to reach me: olanitori00@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love teaching and have 2 years of experience as a teacher, plus I’m always looking for new challenges in both software engineering and education.
